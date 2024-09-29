@@ -11,9 +11,9 @@ def poisson_blending(source_img, target_img, mask):
     target_b, target_g, target_r = cv2.split(target_img)
 
     # poisson blending for each channel
-    r = poisson_blend_single_channel(source_r, target_r, mask)
-    g = poisson_blend_single_channel(source_g, target_g, mask)
-    b = poisson_blend_single_channel(source_b, target_b, mask)
+    r, lse_r = poisson_blend_single_channel(source_r, target_r, mask)
+    g, lse_g = poisson_blend_single_channel(source_g, target_g, mask)
+    b, lse_b = poisson_blend_single_channel(source_b, target_b, mask)
 
     # put the result into 0-255
     result_b = np.clip(b, 0, 255).astype(np.uint8)
@@ -23,7 +23,9 @@ def poisson_blending(source_img, target_img, mask):
     # merge three channels into one to get RGB image
     result_img = cv2.merge((result_b, result_g, result_r))
 
-    return result_img
+    lse = (lse_r + lse_g + lse_b) / 3
+
+    return result_img, lse
 
 
 # poisson blending for single channel
@@ -32,7 +34,7 @@ def poisson_blend_single_channel(source_channel, target_channel, mask):
     height, width = mask.shape
     k = height * width
     A = scipy.sparse.lil_matrix((k, k))  # set up sparse matrix
-    b = np.zeros(k)
+    b = np.zeros((k, 1))
 
     # laplacian for source pic
     laplacian_kernel = np.array([[0, 1, 0],
@@ -55,17 +57,20 @@ def poisson_blend_single_channel(source_channel, target_channel, mask):
                     A[y * width + x, y * width + x] = 1
                 # middle of the patch
                 else:
-                    b[y * width + x] = laplacian_source_channel[y,x]
+                    b[y * width + x] = laplacian_source_channel[y, x]
                     A[y * width + x, y * width + x] = -4
                     A[y * width + x, (y - 1) * width + x] = A[y * width + x, (y + 1) * width + x] \
                         = A[y * width + x, y * width + (x - 1)] = A[y * width + x, y * width + (x + 1)] = 1
 
     # calculate f in A * f = b
-    f = scipy.sparse.linalg.spsolve(A, b.T)
+    f = scipy.sparse.linalg.spsolve(A, b)
 
     # reshape the result channel into (height * weight)
     result_channel = f.reshape(height, width)
-    return result_channel
+
+    # calculate least square error for each channel
+    lse = ((A @ f - b.T) @ (A @ f - b.T).T) ** 0.5
+    return result_channel, lse[0][0]
 
 
 if __name__ == '__main__':
@@ -77,11 +82,12 @@ if __name__ == '__main__':
 
     # align target image
     im_source, target_mask = align_target(source_image, target_image)
-    kernel = np.ones(3*3, np.uint8)
+    kernel = np.ones(3 * 3, np.uint8)
     eroded_mask = cv2.erode(target_mask, kernel, iterations=1)
 
     # poisson blending
-    blended_image = poisson_blending(im_source, target_image, eroded_mask)
+    blended_image, lse = poisson_blending(im_source, target_image, eroded_mask)
+    print("Lease square error: ", lse)
 
     # show both source image and blended image
     # cv2.imwrite('blended.jpg', blended_image)
