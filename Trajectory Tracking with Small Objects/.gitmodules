@@ -1,0 +1,6 @@
+[submodule "co-tracker"]
+	path = co-tracker
+	url = git@gitlab.com:cmpt_742_final/co-tracker.git
+[submodule "yolo-v5"]
+	path = yolo-v5
+	url = git@gitlab.com:cmpt_742_final/yolo-v5.git
