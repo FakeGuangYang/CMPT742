@@ -4,8 +4,8 @@ CMPT742 final proj
 # Start:
 
 ```bash
-git clone git@gitlab.com:cmpt_742_final/final_proj.git &&
-cd final_proj &&
+git clone https://github.com/FakeGuangYang/CMPT742.git &&
+cd cd Trajectory\ Tracking\ with\ Small\ Objects &&
 git submodule update --init --recursive
 ```
 
