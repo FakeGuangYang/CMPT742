@@ -1,0 +1,651 @@
+batch 0 --- Loss: 0.0884
+batch 1 --- Loss: 0.0798
+batch 2 --- Loss: 0.0807
+batch 3 --- Loss: 0.0763
+batch 4 --- Loss: 0.0832
+batch 5 --- Loss: 0.0870
+batch 6 --- Loss: 0.0653
+batch 7 --- Loss: 0.0836
+batch 8 --- Loss: 0.0696
+batch 9 --- Loss: 0.0834
+Epoch 1 / 50 --- Loss: 0.1678
+Accuracy: 0.5226 ---- Loss: 0.2089
+Current LR: 0.0010000
+batch 0 --- Loss: 0.0826
+batch 1 --- Loss: 0.0711
+batch 2 --- Loss: 0.0753
+batch 3 --- Loss: 0.0702
+batch 4 --- Loss: 0.0710
+batch 5 --- Loss: 0.0661
+batch 6 --- Loss: 0.0808
+batch 7 --- Loss: 0.0771
+batch 8 --- Loss: 0.0768
+batch 9 --- Loss: 0.0841
+Epoch 2 / 50 --- Loss: 0.1590
+Accuracy: 0.5446 ---- Loss: 0.1942
+Current LR: 0.0010000
+batch 0 --- Loss: 0.0707
+batch 1 --- Loss: 0.0796
+batch 2 --- Loss: 0.0819
+batch 3 --- Loss: 0.0743
+batch 4 --- Loss: 0.0685
+batch 5 --- Loss: 0.0845
+batch 6 --- Loss: 0.0743
+batch 7 --- Loss: 0.0697
+batch 8 --- Loss: 0.0815
+batch 9 --- Loss: 0.0813
+Epoch 3 / 50 --- Loss: 0.1613
+Accuracy: 0.7708 ---- Loss: 0.1552
+Current LR: 0.0010000
+batch 0 --- Loss: 0.0809
+batch 1 --- Loss: 0.0766
+batch 2 --- Loss: 0.0718
+batch 3 --- Loss: 0.0726
+batch 4 --- Loss: 0.0717
+batch 5 --- Loss: 0.0810
+batch 6 --- Loss: 0.0699
+batch 7 --- Loss: 0.0794
+batch 8 --- Loss: 0.0686
+batch 9 --- Loss: 0.0730
+Epoch 4 / 50 --- Loss: 0.1569
+Accuracy: 0.7329 ---- Loss: 0.1572
+Current LR: 0.0010000
+batch 0 --- Loss: 0.0824
+batch 1 --- Loss: 0.0751
+batch 2 --- Loss: 0.0838
+batch 3 --- Loss: 0.0696
+batch 4 --- Loss: 0.0806
+batch 5 --- Loss: 0.0707
+batch 6 --- Loss: 0.0683
+batch 7 --- Loss: 0.0779
+batch 8 --- Loss: 0.0770
+batch 9 --- Loss: 0.0687
+Epoch 5 / 50 --- Loss: 0.1587
+Accuracy: 0.7274 ---- Loss: 0.1610
+Current LR: 0.0010000
+batch 0 --- Loss: 0.0806
+batch 1 --- Loss: 0.0640
+batch 2 --- Loss: 0.0693
+batch 3 --- Loss: 0.0791
+batch 4 --- Loss: 0.0727
+batch 5 --- Loss: 0.0646
+batch 6 --- Loss: 0.0725
+batch 7 --- Loss: 0.0814
+batch 8 --- Loss: 0.0758
+batch 9 --- Loss: 0.0689
+Epoch 6 / 50 --- Loss: 0.1534
+Accuracy: 0.7393 ---- Loss: 0.1585
+Current LR: 0.0010000
+batch 0 --- Loss: 0.0764
+batch 1 --- Loss: 0.0658
+batch 2 --- Loss: 0.0827
+batch 3 --- Loss: 0.0670
+batch 4 --- Loss: 0.0729
+batch 5 --- Loss: 0.0681
+batch 6 --- Loss: 0.0709
+batch 7 --- Loss: 0.0852
+batch 8 --- Loss: 0.0817
+batch 9 --- Loss: 0.0768
+Epoch 7 / 50 --- Loss: 0.1574
+Accuracy: 0.7549 ---- Loss: 0.1547
+Current LR: 0.0010000
+batch 0 --- Loss: 0.0698
+batch 1 --- Loss: 0.0712
+batch 2 --- Loss: 0.0696
+batch 3 --- Loss: 0.0858
+batch 4 --- Loss: 0.0679
+batch 5 --- Loss: 0.0777
+batch 6 --- Loss: 0.0721
+batch 7 --- Loss: 0.0802
+batch 8 --- Loss: 0.0681
+batch 9 --- Loss: 0.0775
+Epoch 8 / 50 --- Loss: 0.1558
+Accuracy: 0.7325 ---- Loss: 0.1620
+Current LR: 0.0010000
+batch 0 --- Loss: 0.0784
+batch 1 --- Loss: 0.0680
+batch 2 --- Loss: 0.0798
+batch 3 --- Loss: 0.0852
+batch 4 --- Loss: 0.0695
+batch 5 --- Loss: 0.0666
+batch 6 --- Loss: 0.0735
+batch 7 --- Loss: 0.0671
+batch 8 --- Loss: 0.0861
+batch 9 --- Loss: 0.0810
+Epoch 9 / 50 --- Loss: 0.1590
+Accuracy: 0.7217 ---- Loss: 0.1593
+Current LR: 0.0010000
+batch 0 --- Loss: 0.0693
+batch 1 --- Loss: 0.0738
+batch 2 --- Loss: 0.0683
+batch 3 --- Loss: 0.0697
+batch 4 --- Loss: 0.0763
+batch 5 --- Loss: 0.0647
+batch 6 --- Loss: 0.0794
+batch 7 --- Loss: 0.0812
+batch 8 --- Loss: 0.0869
+batch 9 --- Loss: 0.0943
+Epoch 10 / 50 --- Loss: 0.1608
+Accuracy: 0.4518 ---- Loss: 0.1837
+Current LR: 0.0010000
+batch 0 --- Loss: 0.0848
+batch 1 --- Loss: 0.0607
+batch 2 --- Loss: 0.0826
+batch 3 --- Loss: 0.0657
+batch 4 --- Loss: 0.0736
+batch 5 --- Loss: 0.0701
+batch 6 --- Loss: 0.0815
+batch 7 --- Loss: 0.0777
+batch 8 --- Loss: 0.0732
+batch 9 --- Loss: 0.0723
+Epoch 11 / 50 --- Loss: 0.1563
+Accuracy: 0.3013 ---- Loss: 0.1900
+Current LR: 0.0010000
+batch 0 --- Loss: 0.0707
+batch 1 --- Loss: 0.0893
+batch 2 --- Loss: 0.0656
+batch 3 --- Loss: 0.0675
+batch 4 --- Loss: 0.0813
+batch 5 --- Loss: 0.0696
+batch 6 --- Loss: 0.0655
+batch 7 --- Loss: 0.0878
+batch 8 --- Loss: 0.0652
+batch 9 --- Loss: 0.0638
+Epoch 12 / 50 --- Loss: 0.1529
+Accuracy: 0.6560 ---- Loss: 0.1775
+Current LR: 0.0010000
+batch 0 --- Loss: 0.0647
+batch 1 --- Loss: 0.0686
+batch 2 --- Loss: 0.0784
+batch 3 --- Loss: 0.0815
+batch 4 --- Loss: 0.0924
+batch 5 --- Loss: 0.0850
+batch 6 --- Loss: 0.0834
+batch 7 --- Loss: 0.0683
+batch 8 --- Loss: 0.0690
+batch 9 --- Loss: 0.0793
+Epoch 13 / 50 --- Loss: 0.1622
+Accuracy: 0.7009 ---- Loss: 0.1586
+Current LR: 0.0005000
+batch 0 --- Loss: 0.0816
+batch 1 --- Loss: 0.0653
+batch 2 --- Loss: 0.0723
+batch 3 --- Loss: 0.0677
+batch 4 --- Loss: 0.0839
+batch 5 --- Loss: 0.0721
+batch 6 --- Loss: 0.0810
+batch 7 --- Loss: 0.0773
+batch 8 --- Loss: 0.0822
+batch 9 --- Loss: 0.0617
+Epoch 14 / 50 --- Loss: 0.1569
+Accuracy: 0.7051 ---- Loss: 0.1565
+Current LR: 0.0005000
+batch 0 --- Loss: 0.0900
+batch 1 --- Loss: 0.0664
+batch 2 --- Loss: 0.0732
+batch 3 --- Loss: 0.0836
+batch 4 --- Loss: 0.0711
+batch 5 --- Loss: 0.0651
+batch 6 --- Loss: 0.0786
+batch 7 --- Loss: 0.0731
+batch 8 --- Loss: 0.0708
+batch 9 --- Loss: 0.0745
+Epoch 15 / 50 --- Loss: 0.1572
+Accuracy: 0.5886 ---- Loss: 0.1784
+Current LR: 0.0005000
+batch 0 --- Loss: 0.0856
+batch 1 --- Loss: 0.0714
+batch 2 --- Loss: 0.0829
+batch 3 --- Loss: 0.0771
+batch 4 --- Loss: 0.0705
+batch 5 --- Loss: 0.0720
+batch 6 --- Loss: 0.0687
+batch 7 --- Loss: 0.0772
+batch 8 --- Loss: 0.0728
+batch 9 --- Loss: 0.0676
+Epoch 16 / 50 --- Loss: 0.1570
+Accuracy: 0.7264 ---- Loss: 0.1616
+Current LR: 0.0005000
+batch 0 --- Loss: 0.0671
+batch 1 --- Loss: 0.0800
+batch 2 --- Loss: 0.0704
+batch 3 --- Loss: 0.0718
+batch 4 --- Loss: 0.0672
+batch 5 --- Loss: 0.0766
+batch 6 --- Loss: 0.0787
+batch 7 --- Loss: 0.0694
+batch 8 --- Loss: 0.0775
+batch 9 --- Loss: 0.0637
+Epoch 17 / 50 --- Loss: 0.1521
+Accuracy: 0.4781 ---- Loss: 0.1816
+Current LR: 0.0005000
+batch 0 --- Loss: 0.0671
+batch 1 --- Loss: 0.0707
+batch 2 --- Loss: 0.0792
+batch 3 --- Loss: 0.0872
+batch 4 --- Loss: 0.0729
+batch 5 --- Loss: 0.0772
+batch 6 --- Loss: 0.0697
+batch 7 --- Loss: 0.0686
+batch 8 --- Loss: 0.0708
+batch 9 --- Loss: 0.0697
+Epoch 18 / 50 --- Loss: 0.1543
+Accuracy: 0.7294 ---- Loss: 0.1549
+Current LR: 0.0005000
+batch 0 --- Loss: 0.0837
+batch 1 --- Loss: 0.0616
+batch 2 --- Loss: 0.0774
+batch 3 --- Loss: 0.0650
+batch 4 --- Loss: 0.0737
+batch 5 --- Loss: 0.0630
+batch 6 --- Loss: 0.0674
+batch 7 --- Loss: 0.0693
+batch 8 --- Loss: 0.0685
+batch 9 --- Loss: 0.0724
+Epoch 19 / 50 --- Loss: 0.1478
+Accuracy: 0.7032 ---- Loss: 0.1559
+Current LR: 0.0002500
+batch 0 --- Loss: 0.0654
+batch 1 --- Loss: 0.0679
+batch 2 --- Loss: 0.0846
+batch 3 --- Loss: 0.0844
+batch 4 --- Loss: 0.0692
+batch 5 --- Loss: 0.0677
+batch 6 --- Loss: 0.0847
+batch 7 --- Loss: 0.0783
+batch 8 --- Loss: 0.0604
+batch 9 --- Loss: 0.0823
+Epoch 20 / 50 --- Loss: 0.1568
+Accuracy: 0.7232 ---- Loss: 0.1550
+Current LR: 0.0002500
+batch 0 --- Loss: 0.0692
+batch 1 --- Loss: 0.0783
+batch 2 --- Loss: 0.0716
+batch 3 --- Loss: 0.0740
+batch 4 --- Loss: 0.0758
+batch 5 --- Loss: 0.0690
+batch 6 --- Loss: 0.0797
+batch 7 --- Loss: 0.0756
+batch 8 --- Loss: 0.0821
+batch 9 --- Loss: 0.0673
+Epoch 21 / 50 --- Loss: 0.1563
+Accuracy: 0.7699 ---- Loss: 0.1505
+Current LR: 0.0002500
+batch 0 --- Loss: 0.0660
+batch 1 --- Loss: 0.0716
+batch 2 --- Loss: 0.0724
+batch 3 --- Loss: 0.0728
+batch 4 --- Loss: 0.0733
+batch 5 --- Loss: 0.0838
+batch 6 --- Loss: 0.0764
+batch 7 --- Loss: 0.0697
+batch 8 --- Loss: 0.0676
+batch 9 --- Loss: 0.0700
+Epoch 22 / 50 --- Loss: 0.1523
+Accuracy: 0.7106 ---- Loss: 0.1619
+Current LR: 0.0002500
+batch 0 --- Loss: 0.0714
+batch 1 --- Loss: 0.0717
+batch 2 --- Loss: 0.0712
+batch 3 --- Loss: 0.0795
+batch 4 --- Loss: 0.0743
+batch 5 --- Loss: 0.0838
+batch 6 --- Loss: 0.0690
+batch 7 --- Loss: 0.0756
+batch 8 --- Loss: 0.0656
+batch 9 --- Loss: 0.0765
+Epoch 23 / 50 --- Loss: 0.1555
+Accuracy: 0.4873 ---- Loss: 0.1830
+Current LR: 0.0002500
+batch 0 --- Loss: 0.0683
+batch 1 --- Loss: 0.0747
+batch 2 --- Loss: 0.0696
+batch 3 --- Loss: 0.0677
+batch 4 --- Loss: 0.0662
+batch 5 --- Loss: 0.0769
+batch 6 --- Loss: 0.0743
+batch 7 --- Loss: 0.0845
+batch 8 --- Loss: 0.0753
+batch 9 --- Loss: 0.0724
+Epoch 24 / 50 --- Loss: 0.1537
+Accuracy: 0.7532 ---- Loss: 0.1511
+Current LR: 0.0002500
+batch 0 --- Loss: 0.0698
+batch 1 --- Loss: 0.0691
+batch 2 --- Loss: 0.0681
+batch 3 --- Loss: 0.0699
+batch 4 --- Loss: 0.0699
+batch 5 --- Loss: 0.0845
+batch 6 --- Loss: 0.0615
+batch 7 --- Loss: 0.0724
+batch 8 --- Loss: 0.0701
+batch 9 --- Loss: 0.0660
+Epoch 25 / 50 --- Loss: 0.1476
+Accuracy: 0.7389 ---- Loss: 0.1526
+Current LR: 0.0002500
+batch 0 --- Loss: 0.0640
+batch 1 --- Loss: 0.0700
+batch 2 --- Loss: 0.0700
+batch 3 --- Loss: 0.0734
+batch 4 --- Loss: 0.0742
+batch 5 --- Loss: 0.0664
+batch 6 --- Loss: 0.0707
+batch 7 --- Loss: 0.0646
+batch 8 --- Loss: 0.0667
+batch 9 --- Loss: 0.0687
+Epoch 26 / 50 --- Loss: 0.1450
+Accuracy: 0.6339 ---- Loss: 0.1636
+Current LR: 0.0002500
+batch 0 --- Loss: 0.0645
+batch 1 --- Loss: 0.0697
+batch 2 --- Loss: 0.0708
+batch 3 --- Loss: 0.0732
+batch 4 --- Loss: 0.0686
+batch 5 --- Loss: 0.0765
+batch 6 --- Loss: 0.0714
+batch 7 --- Loss: 0.0767
+batch 8 --- Loss: 0.0655
+batch 9 --- Loss: 0.0616
+Epoch 27 / 50 --- Loss: 0.1470
+Accuracy: 0.6376 ---- Loss: 0.1675
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0652
+batch 1 --- Loss: 0.0750
+batch 2 --- Loss: 0.0675
+batch 3 --- Loss: 0.0676
+batch 4 --- Loss: 0.0724
+batch 5 --- Loss: 0.0777
+batch 6 --- Loss: 0.0725
+batch 7 --- Loss: 0.0926
+batch 8 --- Loss: 0.0642
+batch 9 --- Loss: 0.0659
+Epoch 28 / 50 --- Loss: 0.1517
+Accuracy: 0.7521 ---- Loss: 0.1511
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0845
+batch 1 --- Loss: 0.0722
+batch 2 --- Loss: 0.0778
+batch 3 --- Loss: 0.0662
+batch 4 --- Loss: 0.0669
+batch 5 --- Loss: 0.0686
+batch 6 --- Loss: 0.0684
+batch 7 --- Loss: 0.0823
+batch 8 --- Loss: 0.0767
+batch 9 --- Loss: 0.0657
+Epoch 29 / 50 --- Loss: 0.1535
+Accuracy: 0.7506 ---- Loss: 0.1509
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0705
+batch 1 --- Loss: 0.0811
+batch 2 --- Loss: 0.0715
+batch 3 --- Loss: 0.0705
+batch 4 --- Loss: 0.0665
+batch 5 --- Loss: 0.0689
+batch 6 --- Loss: 0.0671
+batch 7 --- Loss: 0.0739
+batch 8 --- Loss: 0.0615
+batch 9 --- Loss: 0.0726
+Epoch 30 / 50 --- Loss: 0.1483
+Accuracy: 0.7722 ---- Loss: 0.1484
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0664
+batch 1 --- Loss: 0.0660
+batch 2 --- Loss: 0.0714
+batch 3 --- Loss: 0.0724
+batch 4 --- Loss: 0.0713
+batch 5 --- Loss: 0.0685
+batch 6 --- Loss: 0.0754
+batch 7 --- Loss: 0.0593
+batch 8 --- Loss: 0.0833
+batch 9 --- Loss: 0.0964
+Epoch 31 / 50 --- Loss: 0.1538
+Accuracy: 0.7664 ---- Loss: 0.1495
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0668
+batch 1 --- Loss: 0.0692
+batch 2 --- Loss: 0.0752
+batch 3 --- Loss: 0.0694
+batch 4 --- Loss: 0.0637
+batch 5 --- Loss: 0.0861
+batch 6 --- Loss: 0.0630
+batch 7 --- Loss: 0.0679
+batch 8 --- Loss: 0.0731
+batch 9 --- Loss: 0.0762
+Epoch 32 / 50 --- Loss: 0.1496
+Accuracy: 0.7686 ---- Loss: 0.1479
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0681
+batch 1 --- Loss: 0.0787
+batch 2 --- Loss: 0.0689
+batch 3 --- Loss: 0.0666
+batch 4 --- Loss: 0.0699
+batch 5 --- Loss: 0.0752
+batch 6 --- Loss: 0.0688
+batch 7 --- Loss: 0.0741
+batch 8 --- Loss: 0.0661
+batch 9 --- Loss: 0.0835
+Epoch 33 / 50 --- Loss: 0.1516
+Accuracy: 0.7232 ---- Loss: 0.1509
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0709
+batch 1 --- Loss: 0.0648
+batch 2 --- Loss: 0.0713
+batch 3 --- Loss: 0.0634
+batch 4 --- Loss: 0.0735
+batch 5 --- Loss: 0.0660
+batch 6 --- Loss: 0.0746
+batch 7 --- Loss: 0.0685
+batch 8 --- Loss: 0.0678
+batch 9 --- Loss: 0.0665
+Epoch 34 / 50 --- Loss: 0.1447
+Accuracy: 0.7592 ---- Loss: 0.1507
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0722
+batch 1 --- Loss: 0.0685
+batch 2 --- Loss: 0.0670
+batch 3 --- Loss: 0.0628
+batch 4 --- Loss: 0.0631
+batch 5 --- Loss: 0.0683
+batch 6 --- Loss: 0.0844
+batch 7 --- Loss: 0.0666
+batch 8 --- Loss: 0.0638
+batch 9 --- Loss: 0.0932
+Epoch 35 / 50 --- Loss: 0.1495
+Accuracy: 0.7127 ---- Loss: 0.1522
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0668
+batch 1 --- Loss: 0.0687
+batch 2 --- Loss: 0.0684
+batch 3 --- Loss: 0.0639
+batch 4 --- Loss: 0.0870
+batch 5 --- Loss: 0.0704
+batch 6 --- Loss: 0.0753
+batch 7 --- Loss: 0.0727
+batch 8 --- Loss: 0.0676
+batch 9 --- Loss: 0.0709
+Epoch 36 / 50 --- Loss: 0.1498
+Accuracy: 0.7834 ---- Loss: 0.1447
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0707
+batch 1 --- Loss: 0.0694
+batch 2 --- Loss: 0.0631
+batch 3 --- Loss: 0.0749
+batch 4 --- Loss: 0.0839
+batch 5 --- Loss: 0.0656
+batch 6 --- Loss: 0.0755
+batch 7 --- Loss: 0.0647
+batch 8 --- Loss: 0.0702
+batch 9 --- Loss: 0.0628
+Epoch 37 / 50 --- Loss: 0.1475
+Accuracy: 0.8002 ---- Loss: 0.1425
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0680
+batch 1 --- Loss: 0.0770
+batch 2 --- Loss: 0.0687
+batch 3 --- Loss: 0.0625
+batch 4 --- Loss: 0.0733
+batch 5 --- Loss: 0.0620
+batch 6 --- Loss: 0.0788
+batch 7 --- Loss: 0.0758
+batch 8 --- Loss: 0.0699
+batch 9 --- Loss: 0.0733
+Epoch 38 / 50 --- Loss: 0.1493
+Accuracy: 0.7474 ---- Loss: 0.1503
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0667
+batch 1 --- Loss: 0.0732
+batch 2 --- Loss: 0.0616
+batch 3 --- Loss: 0.0677
+batch 4 --- Loss: 0.0759
+batch 5 --- Loss: 0.0653
+batch 6 --- Loss: 0.0855
+batch 7 --- Loss: 0.0752
+batch 8 --- Loss: 0.0660
+batch 9 --- Loss: 0.0702
+Epoch 39 / 50 --- Loss: 0.1489
+Accuracy: 0.7302 ---- Loss: 0.1535
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0723
+batch 1 --- Loss: 0.0693
+batch 2 --- Loss: 0.0702
+batch 3 --- Loss: 0.0662
+batch 4 --- Loss: 0.0673
+batch 5 --- Loss: 0.0718
+batch 6 --- Loss: 0.0788
+batch 7 --- Loss: 0.0786
+batch 8 --- Loss: 0.0642
+batch 9 --- Loss: 0.0672
+Epoch 40 / 50 --- Loss: 0.1486
+Accuracy: 0.6549 ---- Loss: 0.1641
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0728
+batch 1 --- Loss: 0.0687
+batch 2 --- Loss: 0.0699
+batch 3 --- Loss: 0.0699
+batch 4 --- Loss: 0.0627
+batch 5 --- Loss: 0.0791
+batch 6 --- Loss: 0.0650
+batch 7 --- Loss: 0.0697
+batch 8 --- Loss: 0.0816
+batch 9 --- Loss: 0.0671
+Epoch 41 / 50 --- Loss: 0.1487
+Accuracy: 0.7019 ---- Loss: 0.1553
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0586
+batch 1 --- Loss: 0.0703
+batch 2 --- Loss: 0.0643
+batch 3 --- Loss: 0.0791
+batch 4 --- Loss: 0.0659
+batch 5 --- Loss: 0.0704
+batch 6 --- Loss: 0.0683
+batch 7 --- Loss: 0.0661
+batch 8 --- Loss: 0.0673
+batch 9 --- Loss: 0.0792
+Epoch 42 / 50 --- Loss: 0.1452
+Accuracy: 0.7530 ---- Loss: 0.1480
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0705
+batch 1 --- Loss: 0.0661
+batch 2 --- Loss: 0.0714
+batch 3 --- Loss: 0.0612
+batch 4 --- Loss: 0.0675
+batch 5 --- Loss: 0.0750
+batch 6 --- Loss: 0.0774
+batch 7 --- Loss: 0.0754
+batch 8 --- Loss: 0.0675
+batch 9 --- Loss: 0.0662
+Epoch 43 / 50 --- Loss: 0.1470
+Accuracy: 0.7859 ---- Loss: 0.1417
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0756
+batch 1 --- Loss: 0.0655
+batch 2 --- Loss: 0.0721
+batch 3 --- Loss: 0.0620
+batch 4 --- Loss: 0.0790
+batch 5 --- Loss: 0.0704
+batch 6 --- Loss: 0.0644
+batch 7 --- Loss: 0.0712
+batch 8 --- Loss: 0.0892
+batch 9 --- Loss: 0.0593
+Epoch 44 / 50 --- Loss: 0.1492
+Accuracy: 0.6543 ---- Loss: 0.1638
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0831
+batch 1 --- Loss: 0.0678
+batch 2 --- Loss: 0.0717
+batch 3 --- Loss: 0.0656
+batch 4 --- Loss: 0.0771
+batch 5 --- Loss: 0.0748
+batch 6 --- Loss: 0.0693
+batch 7 --- Loss: 0.0641
+batch 8 --- Loss: 0.0630
+batch 9 --- Loss: 0.0933
+Epoch 45 / 50 --- Loss: 0.1536
+Accuracy: 0.7804 ---- Loss: 0.1452
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0718
+batch 1 --- Loss: 0.0685
+batch 2 --- Loss: 0.0798
+batch 3 --- Loss: 0.0658
+batch 4 --- Loss: 0.0711
+batch 5 --- Loss: 0.0763
+batch 6 --- Loss: 0.0656
+batch 7 --- Loss: 0.0674
+batch 8 --- Loss: 0.0640
+batch 9 --- Loss: 0.0700
+Epoch 46 / 50 --- Loss: 0.1474
+Accuracy: 0.7498 ---- Loss: 0.1474
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0742
+batch 1 --- Loss: 0.0631
+batch 2 --- Loss: 0.0789
+batch 3 --- Loss: 0.0659
+batch 4 --- Loss: 0.0627
+batch 5 --- Loss: 0.0686
+batch 6 --- Loss: 0.0625
+batch 7 --- Loss: 0.0653
+batch 8 --- Loss: 0.0620
+batch 9 --- Loss: 0.0875
+Epoch 47 / 50 --- Loss: 0.1454
+Accuracy: 0.7688 ---- Loss: 0.1450
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0695
+batch 1 --- Loss: 0.0655
+batch 2 --- Loss: 0.0743
+batch 3 --- Loss: 0.0713
+batch 4 --- Loss: 0.0704
+batch 5 --- Loss: 0.0622
+batch 6 --- Loss: 0.0697
+batch 7 --- Loss: 0.0665
+batch 8 --- Loss: 0.0678
+batch 9 --- Loss: 0.0920
+Epoch 48 / 50 --- Loss: 0.1493
+Accuracy: 0.8101 ---- Loss: 0.1395
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0668
+batch 1 --- Loss: 0.0647
+batch 2 --- Loss: 0.0607
+batch 3 --- Loss: 0.0815
+batch 4 --- Loss: 0.0685
+batch 5 --- Loss: 0.0633
+batch 6 --- Loss: 0.0853
+batch 7 --- Loss: 0.0680
+batch 8 --- Loss: 0.0630
+batch 9 --- Loss: 0.0632
+Epoch 49 / 50 --- Loss: 0.1442
+Accuracy: 0.7519 ---- Loss: 0.1489
+Current LR: 0.0001250
+batch 0 --- Loss: 0.0632
+batch 1 --- Loss: 0.0677
+batch 2 --- Loss: 0.0787
+batch 3 --- Loss: 0.0650
+batch 4 --- Loss: 0.0757
+batch 5 --- Loss: 0.0612
+batch 6 --- Loss: 0.0676
+batch 7 --- Loss: 0.0671
+batch 8 --- Loss: 0.0720
+batch 9 --- Loss: 0.0646
+Epoch 50 / 50 --- Loss: 0.1437
+Accuracy: 0.7957 ---- Loss: 0.1414
+Current LR: 0.0001250
+The training took us 690 seconds for 50 epochs.
